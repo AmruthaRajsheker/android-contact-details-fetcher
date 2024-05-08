@@ -44,7 +44,7 @@ This Android Studio project is a simple application designed to fetch contact de
 ## OUTPUT 
 
 #### UI & WORKING
-<img src="https://github.com/AmruthaRajsheker/android-contact-details-fetcher/assets/119475943/15e6b18a-5a1c-43e8-9032-37dcbecf170d" alt="description" style="width: 20%; height: auto;">
+<img src="https://github.com/AmruthaRajsheker/android-contact-details-fetcher/assets/119475943/15e6b18a-5a1c-43e8-9032-37dcbecf170d" alt="description" style="width: 25%; height: auto;">
 
 <img src="https://github.com/AmruthaRajsheker/android-contact-details-fetcher/assets/119475943/d303a7b4-b36b-438f-9944-fe2fbe552201" alt="description" style="width: 62%; height: auto;">
 
